@@ -9,6 +9,7 @@
 			"homepage": "https://johnblackbourn.com/"
 		}
 	],
+	"type": "wordpress-plugin",
 	"repositories":[
 		{
 			"type": "composer",
